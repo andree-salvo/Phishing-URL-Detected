@@ -8,17 +8,17 @@
 
 ## 📚 Table of Contents
 
-- [Executive Summary](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-executive-summary)
-- [Incident Overview](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-incident-overview)
-- [Investigation Objectives](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-investigation-objectives)
-- [Investigation Walkthrough](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-investigation-walkthrough)
-- [Indicators of Compromise](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-indicators-of-compromise-iocs)
-- [MITRE ATT&CK Mapping](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-mitre-attck-mapping)
-- [Impact Assessment](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#%EF%B8%8F-impact-assessment)
-- [Recommended Remediation](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#%EF%B8%8F-recommended-remediation)
-- [Final Results](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-final-results)
-- [Skills Demonstrated](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-skills-demonstrated)
-- [Conclusion](https://github.com/andree-salvo/Phishing-URL-Detected/edit/main/README.md#-conclusion)
+- [Executive Summary](#-executive-summary)
+- [Incident Overview](#-incident-overview)
+- [Investigation Objectives](#-investigation-objectives)
+- [Investigation Walkthrough](#-investigation-walkthrough)
+- [Indicators of Compromise](#-indicators-of-compromise-iocs)
+- [MITRE ATT&CK Mapping](#-mitre-attck-mapping)
+- [Impact Assessment](#-impact-assessment)
+- [Recommended Remediation](#-recommended-remediation)
+- [Final Results](#-final-results)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Conclusion](#-conclusion)
 
 ---
 
